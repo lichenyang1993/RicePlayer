@@ -1,0 +1,2 @@
+# RicePlayer
+Android Player Project 
